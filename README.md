@@ -1,0 +1,1 @@
+# Magnitico_Laravel10CRUDS
